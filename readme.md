@@ -1,6 +1,6 @@
 # &copy; Silvestra
 
-This logo can be associated only with Silvestra bundle
+This logo can be associated only with Silvestra project
 
 ### Version
 v.0.2
